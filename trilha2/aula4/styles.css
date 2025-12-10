@@ -1,0 +1,14 @@
+/* seletor por nome de elemento */
+li {
+  color: red;
+}
+
+/* seletor por id */
+#item-um {
+  color: blue;
+}
+
+/* seletor por class */
+.item {
+  color: green;
+}
