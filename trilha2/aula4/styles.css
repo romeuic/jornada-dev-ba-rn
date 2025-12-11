@@ -6,9 +6,26 @@ li {
 /* seletor por id */
 #item-um {
   color: blue;
+  /*
+  border-width: 10px;
+  border-style: solid;
+  border-color: brown;
+  */
+  border: 10px solid brown;
 }
 
 /* seletor por class */
 .item {
   color: green;
+}
+
+#item-tres {
+  /*
+  padding-top: 30px;
+  padding-right: 60px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  */
+  padding: 30px 60px 20px 10px;
+  background-color: wheat;
 }
